@@ -1,0 +1,4 @@
+hash(A) == hash(C): False
+hash(B) == hash(D): True
+hash(A) == hash(C): 43300 == 52700
+hash(B) == hash(D): 45700 == 45700
