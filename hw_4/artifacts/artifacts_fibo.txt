@@ -1,0 +1,263 @@
+Synchronous 0.1467s
+Synchronous 0.1622s
+Synchronous 0.1937s
+Synchronous 0.1846s
+Synchronous 0.2080s
+Synchronous 0.1820s
+Synchronous 0.1942s
+Synchronous 0.2120s
+Synchronous 0.2000s
+Synchronous 0.2044s
+Synchronous 0.1538s
+Synchronous 0.2026s
+Synchronous 0.1728s
+Synchronous 0.1842s
+Synchronous 0.1898s
+Synchronous 0.1676s
+Synchronous 0.1708s
+Synchronous 0.1889s
+Synchronous 0.1811s
+Synchronous 0.2051s
+Synchronous 0.1847s
+Synchronous 0.1812s
+Synchronous 0.1857s
+Synchronous 0.1803s
+Synchronous 0.1919s
+Synchronous 0.1929s
+Synchronous 0.1843s
+Synchronous 0.1684s
+Synchronous 0.1937s
+Synchronous 0.1943s
+Synchronous 0.2009s
+Synchronous 0.2139s
+Synchronous 0.2213s
+Synchronous 0.1910s
+Synchronous 0.2196s
+Synchronous 0.2153s
+Synchronous 0.1877s
+Synchronous 0.2197s
+Synchronous 0.2266s
+Synchronous 0.2433s
+Synchronous 0.2091s
+Synchronous 0.1660s
+Synchronous 0.1753s
+Synchronous 0.1821s
+Synchronous 0.1784s
+Synchronous 0.1850s
+Synchronous 0.1825s
+Synchronous 0.1801s
+Synchronous 0.1724s
+Synchronous 0.1628s
+Synchronous 0.1883s
+Synchronous 0.1712s
+Synchronous 0.1813s
+Synchronous 0.1925s
+Synchronous 0.1718s
+Synchronous 0.1968s
+Synchronous 0.1834s
+Synchronous 0.1921s
+Synchronous 0.1908s
+Synchronous 0.1952s
+Synchronous 0.1699s
+Synchronous 0.1697s
+Synchronous 0.1799s
+Synchronous 0.1764s
+Synchronous 0.1764s
+Synchronous 0.1881s
+Synchronous 0.2010s
+Synchronous 0.1937s
+Synchronous 0.1764s
+Synchronous 0.1923s
+Synchronous 0.1843s
+Synchronous 0.1677s
+Synchronous 0.1816s
+Synchronous 0.1721s
+Synchronous 0.1907s
+Synchronous 0.1687s
+Synchronous 0.1986s
+Synchronous 0.1773s
+Synchronous 0.1740s
+Synchronous 0.1847s
+Synchronous 0.1884s
+Synchronous 0.1870s
+Synchronous 0.1887s
+Synchronous 0.1690s
+Synchronous 0.1739s
+Synchronous 0.1824s
+Synchronous 0.1714s
+Synchronous 0.1876s
+Synchronous 0.1875s
+Synchronous 0.1701s
+Synchronous 0.1724s
+
+Synchronous total time is 1.8463s
+
+Synchronous 0.1903s
+
+Synchronous total time is 1.8458s
+
+Synchronous 0.1975s
+
+Synchronous total time is 1.8671s
+
+Synchronous 0.1657s
+
+Synchronous total time is 1.8486s
+
+Synchronous 0.1756s
+
+Synchronous total time is 1.8837s
+
+Synchronous 0.1712s
+
+Synchronous total time is 1.8600s
+
+Synchronous 0.2054s
+
+Synchronous total time is 1.8820s
+
+Synchronous 0.1920s
+
+Synchronous total time is 1.8716s
+
+Synchronous 0.1933s
+
+Synchronous total time is 1.8767s
+
+Synchronous 0.2070s
+
+Synchronous total time is 1.8841s
+
+Thread 1.0476s
+Thread 1.0824s
+Thread 1.0680s
+Thread 1.0925s
+Thread 1.0998s
+Thread 1.1391s
+Thread 1.1677s
+Thread 1.1976s
+Thread 1.0981s
+Thread 1.1920s
+Thread 1.2207s
+Thread 1.2379s
+Thread 1.1649s
+Thread 1.2099s
+Thread 1.2207s
+Thread 1.2357s
+Thread 1.2498s
+Thread 1.3022s
+Thread 1.2917s
+Thread 1.2445s
+Thread 1.2891s
+Thread 1.2503s
+Thread 1.3016s
+Thread 1.3213s
+Thread 1.1931s
+Thread 1.4141s
+Thread 1.1521s
+Thread 1.3965s
+Thread 1.4725s
+Thread 1.4168s
+Thread 1.5235s
+Thread 1.4852s
+Thread 1.4559s
+Thread 1.1823s
+Thread 1.2494s
+Thread 1.3765s
+Thread 1.3478s
+Thread 1.2237s
+Thread 1.5990s
+Thread 1.6202s
+Thread 1.4498s
+Thread 1.5887s
+Thread 1.5129s
+Thread 1.3892s
+Thread 1.4321s
+Thread 1.4995s
+Thread 1.7609s
+Thread 1.4261s
+Thread 1.6320s
+Thread 1.6139s
+Thread 1.2269s
+Thread 1.3526s
+Thread 1.7193s
+Thread 1.5587s
+Thread 1.7525s
+Thread 1.3797s
+Thread 1.4018s
+Thread 1.4093s
+Thread 1.4072s
+Thread 1.6005s
+Thread 1.4901s
+Thread 1.5933s
+Thread 1.3127s
+Thread 1.2080s
+Thread 1.5155s
+Thread 1.2378s
+Thread 1.3180s
+Thread 1.3566s
+Thread 1.4956s
+Thread 1.3069s
+Thread 1.4017s
+Thread 1.6801s
+Thread 1.2532s
+Thread 1.2625s
+Thread 1.2699s
+Thread 1.4633s
+Thread 1.3222s
+Thread 1.5504s
+
+Thread total time is 1.9501s
+
+Thread 1.1799s
+Thread 1.2091s
+
+Thread total time is 1.9849s
+
+Thread 1.4029s
+Thread 1.3890s
+Thread 1.3503s
+Thread 1.4432s
+
+Thread total time is 2.0245s
+
+Thread 1.2984s
+
+Thread total time is 1.9901s
+
+Thread 1.1038s
+Thread 1.0650s
+
+Thread total time is 2.0005s
+
+Thread 1.3377s
+Thread 1.4173s
+Thread 1.4730s
+
+Thread total time is 2.0294s
+
+Thread 1.5709s
+Thread 1.4214s
+Thread 1.3887s
+
+Thread total time is 2.0105s
+
+Thread 1.2175s
+
+Thread total time is 2.0217s
+
+Thread 1.3643s
+Thread 1.2484s
+Thread 1.4945s
+
+Thread total time is 2.0423s
+
+Thread 1.2827s
+Thread 1.4413s
+Thread 1.1793s
+
+Thread total time is 2.0370s
+
+
+Process total time is 4.0818s
+
